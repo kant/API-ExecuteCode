@@ -2,7 +2,7 @@
 
 
 
-> API to execute code and return whether code result in error ou success.
+> API to execute code and return whether code result in error or success.
 
 **Request**
 
